@@ -15,3 +15,4 @@ title: about / scrap book
 
 - [my orphaned blog](https://pdvwrt.blogspot.com)
 
+- [Layout of Line and Contact Test Mask](https://web.archive.org/web/20100617115136/http://www.tnlc.ncsu.edu/files/masks/PAS550/TestMask_PAS5500.htm)
